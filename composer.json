@@ -1,0 +1,19 @@
+{
+  "name": "claudio-silva/http-client",
+  "description": "Http Client",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cláudio Silva",
+      "email": "claudio.silva@impactwave.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Http\\": "src"
+    }
+  }
+}
